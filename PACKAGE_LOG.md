@@ -27,12 +27,11 @@ Coroutines is our recommended solution for asynchronous programming on Android
 - [kotlinx-coroutines-android](https://developer.android.com/kotlin/coroutines)
 - [lifecycle-viewmodel](https://developer.android.com/jetpack/androidx/releases/lifecycle)
 - [lifecycle-runtime-ktx](https://developer.android.com/jetpack/androidx/releases/lifecycle)
-- 
 
 ## Dagger Hilt
 Hilt is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
 - [hilt-android](https://developer.android.com/jetpack/androidx/releases/hilt)
-- [hilt-android](https://developer.android.com/jetpack/androidx/releases/hilt)
+- [hilt-android-compiler](https://developer.android.com/jetpack/androidx/releases/hilt)
 
 ## Glide
 Glide is a fast and efficient open source media management and 
